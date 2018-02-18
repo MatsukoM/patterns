@@ -15,7 +15,7 @@ javac -d bin -sourcepath src src/com/patterns/intro/Giraffe.java
 javac -d bin -sourcepath src src/com/patterns/intro/Living.java
 javac -d bin -sourcepath src src/com/patterns/intro/Monkey.java
 
-
+# run
 java -classpath bin com.patterns.intro.WorkWithAnimals
 
 popd > /dev/null
