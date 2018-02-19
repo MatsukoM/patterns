@@ -2,7 +2,7 @@ package com.patterns.intro;
 
 public class Dog extends Animal
 {
-    public Dog()
+   public Dog()
     {
         super();
         setSound("Bark");
